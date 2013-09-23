@@ -4,6 +4,6 @@ use strict;
 # Need LWP for wget
 use LWP::Simple;
 
-my $web, $url;
+my ($web, $url);
 
 $web = get("$url");

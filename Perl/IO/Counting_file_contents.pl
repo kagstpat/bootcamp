@@ -1,4 +1,4 @@
-#!/usr/bin/perl5 -w
+#!/usr/bin/perl5
 use strict;
 open (MYFILE, 'tomten.txt');
 
