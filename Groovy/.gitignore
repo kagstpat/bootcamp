@@ -1,0 +1,20 @@
+# Ignores log files
+*.log
+
+# Ignore C .o object files
+*.o
+
+# Ignore temp files (~)
+~*
+
+# Ignore Java files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+work/
