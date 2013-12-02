@@ -1,0 +1,28 @@
+# Ignores log files
+*.log
+
+# Ignore C .o object files
+*.o
+
+# Ignore temp files (~)
+~*
+
+# Ignore Java files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# Maven
+target/
+work/
+
+# Gradle
+.gradle/
+build/
+*.iml
