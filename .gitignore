@@ -1,13 +1,13 @@
-# Ignores log files
+# Log files
 *.log
 
-# Ignore C .o object files
+# C .o object files
 *.o
 
-# Ignore temp files (~)
+# Temp files (~)
 ~*
 
-# Ignore Java files
+# Java files
 *.class
 
 # Eclipse
@@ -21,3 +21,7 @@ work/
 
 # Gradle
 build/
+
+# IntelliJ
+.idea/
+*.iml
